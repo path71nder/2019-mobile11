@@ -43,4 +43,8 @@
     <string name="title_copyable_preference">Copyable Preference</string>
     <string name="summary_copyable_preference">Summary of copyable preference</string>
     <string name="home">Home</string>
+
+    <!--TODO : MyOwn Settings -->
+    <string name="title_pengelola_aplikasi">Pengelola Aplikasi</string>
+    <string name="summary_pengelola_aplikasi">Setting aplikasi anda</string>
 </resources>

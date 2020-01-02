@@ -7,8 +7,8 @@
 
         <Preference
             android:key="preference"
-            android:title="@string/title_basic_preference"
-            android:summary="@string/summary_basic_preference"/>
+            android:title="@string/title_pengelola_aplikasi"
+            android:summary="@string/summary_pengelola_aplikasi"/>
 
         <Preference
             android:key="icon"
